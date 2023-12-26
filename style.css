@@ -63,7 +63,7 @@ body {
 
 .new {
     font-family: 'TitleText';
-    font-size: 4rem;
+    font-size: 3rem;
 
     text-align: center;
     margin-top: 0%;
@@ -73,7 +73,7 @@ body {
 }
 
 .head {
-    height: 4rem;
+    height: max-content;
     width: 100%;
 
     margin: 0%;
