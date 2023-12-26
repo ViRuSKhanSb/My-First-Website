@@ -16,19 +16,19 @@ h1 {
 
 @font-face {
     font-family: 'CityNight-01';
-    src: url("Media/Citynight.otf");
+    src: url("Citynight.otf");
 }
 @font-face {
     font-family: 'Computer-Pixel 7';
-    src: url("Media/Mentioned.otf");
+    src: url("Mentioned.otf");
 }
 @font-face {
     font-family: 'TitleText';
-    src: url('Media/TheyPerished.ttf');
+    src: url('TheyPerished.ttf');
 }
 @font-face {
     font-family: 'PixelMe';
-    src: url('Media/PixemonTrialRegular-p7nLK.ttf');
+    src: url('PixemonTrialRegular-p7nLK.ttf');
 }
 
 body {
